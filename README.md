@@ -10,3 +10,10 @@
 [LinkedIn](URL) · [Correo](mailto:CORREO) · [Proyectos](#proyectos-destacados)
 
 ---
+
+## Un poco sobre mí
+
+🎓 Estudio Computación en la ESPOL.
+🧑‍🏫 Soy ayudante de cátedra: fui de **Fundamentos de Programación** y actualmente de **Estadística**.
+🔐 Me interesan la **ciberseguridad** y el **desarrollo de videojuegos**.
+🤝 En los trabajos en grupo doy lo mejor de mí y no me rindo fácilmente.
