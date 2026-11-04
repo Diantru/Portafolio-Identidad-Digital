@@ -61,3 +61,14 @@
 | **JavaScript** | Interfaces interactivas: en el centro de recolección muestra datos, estadísticas y gráficos; en el creador de horarios hace la interfaz cómoda de usar. |
 | **Android Studio** | Diseño de la aplicación móvil del mecánico y sincronización de su interfaz con las clases en Java. |
 | **Git y GitHub** | Control de versiones de mis proyectos y publicación de este portafolio. |
+
+## Experiencia
+
+- **Ayudante de cátedra, Fundamentos de Programación** (ESPOL)
+- **Ayudante de cátedra, Estadística** (ESPOL, actual)
+
+## Contacto
+
+- [LinkedIn](URL)
+- [GitHub](https://github.com/USUARIO)
+- Correo: geandesi@espol.edu,ec
