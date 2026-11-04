@@ -27,7 +27,7 @@
 | Creador de horarios | Java, JavaScript | [Ver](https://github.com/Diantru/Creador-de-Horarios) |
 
 ### 🗑️ Interfaz para un centro de recolección de basura
-**Necesidad:** Ayudaba a mantener un control de cuanta basura se recoletaba por zona, así como separarlo por tipo, visualizar que zonas tenian más prioridad, así como el control de estado de los camiones recolectores.
+**Necesidad:** Ayudaba a controlar cuánta basura se recolectaba por zona, separarla por tipo, visualizar qué zonas tenían más prioridad y controlar el estado de los camiones recolectores.
 
 **Qué hace:** presenta los datos del centro en una interfaz clara, con estadísticas y gráficos.
 
