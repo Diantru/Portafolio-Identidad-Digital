@@ -17,3 +17,11 @@
 🧑‍🏫 Soy ayudante de cátedra: fui de **Fundamentos de Programación** y actualmente de **Estadística**.
 🔐 Me interesan la **ciberseguridad** y el **desarrollo de videojuegos**.
 🤝 En los trabajos en grupo doy lo mejor de mí y no me rindo fácilmente.
+
+## Proyectos destacados
+
+| Proyecto | Tecnologías | Repositorio |
+|----------|-------------|-------------|
+| Interfaz para centro de recolección de basura | Java, JavaScript | [Ver](URL) |
+| Aplicación para un mecánico | Java, Android Studio | [Ver](URL) |
+| Creador de horarios | Java, JavaScript | [Ver](URL) |
