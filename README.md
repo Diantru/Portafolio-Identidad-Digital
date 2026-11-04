@@ -45,7 +45,7 @@
 **Enlaces:** [Repositorio](https://github.com/Diantru/fixTrick)
 
 ### 📅 Creador de horarios (proyecto personal)
-**Necesidad:** Proyecto personal que estoy creando para ayudar a mi mamá a que la creación de horarios para el hospital le resulte más fácil.
+**Necesidad:** Proyecto personal para facilitar la creación de horarios de turnos en un hospital, reduciendo el trabajo manual de armarlos.
 
 **Qué hace:** permite crear horarios con una interfaz funcional, cómoda y fácil de manejar.
 
