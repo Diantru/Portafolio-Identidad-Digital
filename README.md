@@ -52,3 +52,12 @@
 **Cómo se construyó:** la lógica está en clases de **Java** y la interfaz en **JavaScript**.
 
 **Enlaces:** [Repositorio](URL) · [Demo](URL)
+
+## Tecnologías
+
+| Tecnología | Cómo la he usado |
+|------------|------------------|
+| **Java** | Base de los tres proyectos: clases con atributos y métodos que representan los datos y la lógica de cada aplicación. |
+| **JavaScript** | Interfaces interactivas: en el centro de recolección muestra datos, estadísticas y gráficos; en el creador de horarios hace la interfaz cómoda de usar. |
+| **Android Studio** | Diseño de la aplicación móvil del mecánico y sincronización de su interfaz con las clases en Java. |
+| **Git y GitHub** | Control de versiones de mis proyectos y publicación de este portafolio. |
