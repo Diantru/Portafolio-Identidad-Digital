@@ -25,3 +25,30 @@
 | Interfaz para centro de recolección de basura | Java, JavaScript | [Ver](URL) |
 | Aplicación para un mecánico | Java, Android Studio | [Ver](URL) |
 | Creador de horarios | Java, JavaScript | [Ver](URL) |
+
+### 🗑️ Interfaz para un centro de recolección de basura
+**Necesidad:** Ayudaba a mantener un control de cuanta basura se recoletaba por zona, así como separarlo por tipo, visualizar que zonas tenian más prioridad, así como el control de estado de los camiones recolectores.
+
+**Qué hace:** presenta los datos del centro en una interfaz clara, con estadísticas y gráficos.
+
+**Cómo se construyó:** la lógica se modeló en **Java**, con las clases que representan los datos del centro. La interfaz se desarrolló en **JavaScript**, que muestra esos datos y genera las estadísticas y gráficos.
+
+**Enlaces:** [Repositorio](URL)
+
+### 🔧 Aplicación para un mecánico
+**Necesidad:** Ayudaba a guardar información acerca de los empleados, los clientes, las fechas de inicio y finalización de un pedido, lista de materiales disponibles, eficacia de los empleados en cada mes.
+
+**Qué hace:** aplicación móvil Android con una interfaz diseñada para el mecánico, conectada a las clases que manejan su información.
+
+**Cómo se construyó:** en **Java** se crearon las clases con sus métodos y datos. En **Android Studio** se diseñó la aplicación y se sincronizó la interfaz con esas clases, de modo que lo que se ve en pantalla refleja los datos del programa.
+
+**Enlaces:** [Repositorio](URL)
+
+### 📅 Creador de horarios (proyecto personal)
+**Necesidad:** Proyecto personal que estoy creando para ayudar a mi mamá a que la creación de horarios para el hospital le resulte más fácil.
+
+**Qué hace:** permite crear horarios con una interfaz funcional, cómoda y fácil de manejar.
+
+**Cómo se construyó:** la lógica está en clases de **Java** y la interfaz en **JavaScript**.
+
+**Enlaces:** [Repositorio](URL) · [Demo](URL)
