@@ -71,4 +71,4 @@
 
 - [LinkedIn](URL)
 - [GitHub](https://github.com/USUARIO)
-- Correo: geandesi@espol.edu,ec
+- Correo: geandesi@espol.edu.ec
