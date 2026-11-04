@@ -38,7 +38,7 @@
 ### 🔧 Aplicación para un mecánico
 **Necesidad:** Ayudaba a guardar información acerca de los empleados, los clientes, las fechas de inicio y finalización de un pedido, lista de materiales disponibles, eficacia de los empleados en cada mes.
 
-**Qué hace:** aplicación móvil Android con una interfaz diseñada para el mecánico, conectada a las clases que manejan su información.
+**Qué hace:** aplicación móvil Android que registra empleados, clientes, fechas de inicio y fin de cada pedido, la lista de materiales disponibles y la eficacia mensual de los empleados.
 
 **Cómo se construyó:** en **Java** se crearon las clases con sus métodos y datos. En **Android Studio** se diseñó la aplicación y se sincronizó la interfaz con esas clases, de modo que lo que se ve en pantalla refleja los datos del programa.
 
